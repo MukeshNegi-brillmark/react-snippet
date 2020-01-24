@@ -1,5 +1,5 @@
 {
-	"generate effect Hook": {
+	"generate Hook": {
 		"prefix": "r_Effect",
 		"body": [
 			"import React, { useEffect } from 'react';",
